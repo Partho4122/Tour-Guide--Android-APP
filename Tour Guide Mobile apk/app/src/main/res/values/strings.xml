@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">TOUR</string>
+    <string-array name="dhakaspots">
+        <item></item>
+        <item>Lalbagh Fort</item>
+        <item>Ahsan Manzil</item>
+        <item>Dhakeshwari Temple</item>
+    </string-array>
+
+    <string-array name="sylhetspots">
+        <item></item>
+        <item>Ratargul Swamp Forest</item>
+        <item>Jaflong</item>
+        <item>Srimangal</item>
+    </string-array>
+
+    <string-array name="khulnaspots">
+
+        <item></item>
+        <item>Sundarbans</item>
+        <item>Khan Jahan Alis Mausoleum</item>
+        <item>Shat Gombuj Mosque</item>
+    </string-array>
+
+
+
+</resources>
